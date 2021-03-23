@@ -1,0 +1,123 @@
+###########################################
+***** Welcome to Library Borrowing System *****
+###########################################
+Book CS202 Successfully Added 
+###########################################
+Member Turki_Ahmed Successfully Added 
+###########################################
+Book CS203 Successfully Added 
+###########################################
+Member Sara_Jamal Successfully Added 
+###########################################
+Member Abdullah_Ali Successfully Added 
+###########################################
+Member Areej_Omer Was not Added
+ You exceed the maximum number of Members
+###########################################
+Member Khalid_Abdullah Was not Added
+ You exceed the maximum number of Members
+###########################################
+Member 19678 was not regeistered in the System
+###########################################
+Book CS204 Successfully Added 
+###########################################
+No Record found with the BR BR1000
+
+#####################################
+Book CS211 Successfully Added 
+###########################################
+Book CS214 Was not Added
+ You exceed the maximum number of Books
+###########################################
+Information for Book CS202
+Title:JAVA
+ Author:Liang
+ Number of Copies:5
+ Number of Remainig Copies:5
+
+
+#####################################
+No Record found with the Book Code CS214
+
+#####################################
+Member with Id   12345 Successfully Borrowed  1 Books
+###########################################
+Information for Book CS204
+Title:Data_Structure
+ Author:John
+ Number of Copies:2
+ Number of Remainig Copies:1
+
+
+#####################################
+Member 15327 was not regeistered in the System
+###########################################
+Member with Id   23156 Successfully Borrowed  2 Books
+###########################################
+Member with Id   23156 Successfully Borrowed  1 Books
+###########################################
+---The required plus the previous borrowed books is excedded the maximium of Allowed
+###########################################
+Information for Book CS202
+Title:JAVA
+ Author:Liang
+ Number of Copies:5
+ Number of Remainig Copies:5
+
+
+#####################################
+Member with Id   12876 Successfully Borrowed  1 Books
+###########################################
+Member with Id   12876 Successfully Borrowed  1 Books
+###########################################
+Information for Book CS202
+Title:JAVA
+ Author:Liang
+ Number of Copies:5
+ Number of Remainig Copies:4
+
+
+#####################################
+Information for Book CS203
+Title:Python
+ Author:David
+ Number of Copies:3
+ Number of Remainig Copies:1
+
+
+#####################################
+Member with Id   12876 Successfully Borrowed  1 Books
+###########################################
+Number of remaining copies for CS203 is not enough
+Member with Id   12345 could not borrow  any Books
+###########################################
+Information for Book CS203
+Title:Python
+ Author:David
+ Number of Copies:3
+ Number of Remainig Copies:0
+
+
+#####################################
+No Record found with the BR BB1000
+
+#####################################
+Borrowing Information for  BR#  BR1003
+ Member Name: Abdullah_Ali
+ Borrowing Date: Wed Mar 18 13:35:05 AST 2020
+ Number of Borrowing Kooks: 1
+Books List: 
+Title: JAVA  Author:  Liang# of Copies: 5 # of Remaining Copies: 4
+
+###########################################
+Borrowing Information for  BR#  BR1005
+ Member Name: Abdullah_Ali
+ Borrowing Date: Wed Mar 18 13:35:05 AST 2020
+ Number of Borrowing Kooks: 1
+Books List: 
+Title: Python  Author:  David# of Copies: 3 # of Remaining Copies: 0
+
+###########################################
+Thank you for using the books booking System, Good Bye!
+
+#####################################

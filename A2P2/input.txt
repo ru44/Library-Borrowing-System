@@ -1,0 +1,33 @@
+4 3 3
+Add_Book CS202 JAVA Liang 5
+Add_Member Turki_Ahmed 12345 Faculty
+Add_Book CS203 Python David 3
+Add_Member Sara_Jamal 23156 Other
+Add_Member Abdullah_Ali 12876 Faculty
+Add_Member Areej_Omer 15327 Faculty
+Add_Member Khalid_Abdullah 19678 Other
+Borrow 19678 2 CS202 CS203
+Add_Book CS204 Data_Structure John 2
+Search_Borrowing BR1000
+Add_Book CS211 Logic_Design Morris 4
+Add_Book CS214 Computer_Organization William 3
+Book_Status CS202
+Book_Status CS214
+Borrow 12345 1 CS204
+Book_Status CS204
+Borrow 15327 2 CS204 CS211
+Borrow 23156 2 CS204 CS211
+Borrow 23156 1 CS203
+Borrow 12345 4 CS202 CS203 CS204 CS211
+Book_Status CS202
+Borrow 12876 1 CS202
+Borrow 12876 1 CS203
+Book_Status CS202
+Book_Status CS203
+Borrow 12876 1 CS203
+Borrow 12345 1 CS203
+Book_Status CS203
+Search_Borrowing BB1000
+Search_Borrowing BR1003
+Search_Borrowing BR1005
+Quit
